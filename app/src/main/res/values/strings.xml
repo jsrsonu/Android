@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Retrofit</string>
+    <string name="detail_name_label">Name</string>
+    <string name="detail_height_label">Height</string>
+    <string name="detail_mass_label">Mass</string>
+    <string name="detail_date_label">Date &amp; Time</string>
+    <string name="button_try_again">Try Again</string>
+
+</resources>
